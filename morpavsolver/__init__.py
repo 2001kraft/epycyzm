@@ -1,6 +1,6 @@
 # https://github.com/morpav/zceq_solver--bin
 
-from CFFI import FFI
+from cffi import FFI
 import os.path
 import inspect
 
